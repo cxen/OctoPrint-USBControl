@@ -62,7 +62,7 @@ At the moment, this plugin does not save the power state for each USB port. Each
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/OutsourcedGuru/OctoPrint-USBControl/archive/master.zip
+    https://github.com/cxen/OctoPrint-USBControl/archive/master.zip
 
 ## Configuration
 
